@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Maps/MainLevel.umap",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Background.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Cross.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Exclamation.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Tanuki_Attack.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Tanuki_Defeated.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Tanuki_Idle.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Toad_Attack.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Toad_Defeated.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Toad_Idle.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Blueprints/BP_Samurai.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Blueprints/BP_Samurai_Player.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Background_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Toad_Idle_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Cross_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Exclamation_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Tanuki_Attack_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Tanuki_Defeated_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Tanuki_Idle_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Toad_Attack_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_Toad_Defeated_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/GM_Duel.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Enums/E_Phase.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Blueprints/BP_Exclamation.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Input/Actions/IA_Attack.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Input/IMC_Duel.uasset"
+			]
+		}
+	]
+}
