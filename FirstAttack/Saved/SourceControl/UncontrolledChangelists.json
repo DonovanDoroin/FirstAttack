@@ -31,7 +31,23 @@
 				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Enums/E_Phase.uasset",
 				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Blueprints/BP_Exclamation.uasset",
 				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Input/Actions/IA_Attack.uasset",
-				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Input/IMC_Duel.uasset"
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Input/IMC_Duel.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/Troll_201x173__Idle_Run_Attack_Death_.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/RightIdle.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/RightSlash.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/RightDeath.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/Troll_201x173__Idle_Run_Attack_Death__Sprite_0.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/RightDeath_Sprite_6.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/RightIdle_Sprite_3.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/Troll_201x173__Idle_Run_Attack_Death__Sprite_28.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/Troll_201x173__Idle_Run_Attack_Death__Sprite_38.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/New/RightSlash_Sprite_7.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_DarkForrestBackground.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_VSIcon.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_XIcon.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_XIcon_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_DarkForrestBackground_Sprite.uasset",
+				"E:/GitHub/Unreal/FirstAttack/FirstAttack/Content/Art/T_VSIcon_Sprite.uasset"
 			]
 		}
 	]
